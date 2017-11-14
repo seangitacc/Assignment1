@@ -5,7 +5,7 @@
  */
 package Chapter1;
 
-//Hey Sean
+//Hey Sean u sux
 
 public class Question11 {
 
